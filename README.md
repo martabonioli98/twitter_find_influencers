@@ -1,6 +1,6 @@
 # twitter_find_influencers
 GOAL: Find potential influencers on twitter that allow you to make your account / company known and grow. (PYTHON CODE) <br>
-**REQUIREMENT: Sign up for a twitter developer account https://developer.twitter.com/en/apply-for-access. 
+**REQUIREMENT: Sign up for a twitter developer account https://developer.twitter.com/en/apply-for-access.**
 
 - Twitter Analyser
 Web app that analyse Twitter accounts performance and  find influencers, so accounts that allow to be more visible.
@@ -13,6 +13,5 @@ I choose to analyse account : MasiWines
   - app_full_analisy
   - main.py : run and build new network inserting any given account 
   - network_followers.py : gather and analyse data 
-  
-
-
+  <br>
+  FULL EXPLANATION : Twitter_project_description.pdf
