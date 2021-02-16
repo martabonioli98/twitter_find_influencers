@@ -17,6 +17,6 @@ st.subheader('')
 st.header('TOP 10 Influencer')
 st.dataframe(pd.read_json('MasiWines/MasiWines_top10_influencer.json'))
 st.subheader('Are this twitter users interests for you ?')
-st.write('If you want to understand more about one of this copy the name and click below: ')
+st.write('If you want to understand more about one of this try the web app TWITTER ANALYZER !')
 
 
