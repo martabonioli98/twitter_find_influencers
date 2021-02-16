@@ -1,4 +1,4 @@
-# twitter_find_influencers
+# Twitter_find_influencers
 GOAL: Find potential influencers on twitter that allow you to make your account / company known and grow. (PYTHON CODE) <br>
 **REQUIREMENT: Sign up for a twitter developer account https://developer.twitter.com/en/apply-for-access.**
 
