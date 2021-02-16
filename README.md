@@ -10,7 +10,7 @@ Web app that analyse Twitter accounts performance and  find influencers, so acco
  - Potential Influencer Finder
 Predict potential influencers for Twitter account, that could be important for marketing campaign and to the expansion of its network. 
 I choose to analyse account : MasiWines 
-  - app_full_analisy
+  - app_full_analysis
   - main.py : run and build new network inserting any given account 
   - network_followers.py : gather and analyse data 
   <br>
